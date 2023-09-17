@@ -23,12 +23,8 @@ Python 3.7 or higher
 TensorFlow 2.0 or higher
 You can install the required Python packages using the following command:
 
-bash
+##bash
 Copy code
 pip install -r requirements.txt
 License
 This project is licensed under the MIT License.
-
-Acknowledgments
-Thanks to Amir Farasati for creating this project.
-Feel free to contribute or open issues if you find any problems with the code or have suggestions for improvements.
